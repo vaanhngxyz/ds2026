@@ -11,4 +11,4 @@ Student Info
 
 * Student Name: Nguyen Thi Vang Anh
 * Student ID: 23BI14032
-* Student Group ID: Not-for-now
+* Student Group ID: 17
